@@ -1,21 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 00:18:11.294380
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 5:22
 #+TITLE: 大唐開元釋教廣品歷章
 #+PROPERTY: CBETA_ID A098n1276
 #+PROPERTY: ID KR6s0095
 #+PROPERTY: SOURCE Jin Edition of the Canon Vol. 098, No. 1276
 #+PROPERTY: VOL 098
 #+PROPERTY: BASEEDITION A
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6s0095_A_016-0307b> 
 #+PROPERTY: JUAN 16
 
- 
-大乘集義論一
   
   * 
   
-  * 瑜伽師地論卷第十二(彌勒菩薩說沙門玄奘奉　詔譯)
+  * (彌勒菩薩說沙門玄奘奉　詔譯)
   
   * 本地分中三摩呬多地第六之一¶
   * 瑜伽師地論卷第十二(彌勒菩薩說沙門玄奘奉　詔譯)¶
