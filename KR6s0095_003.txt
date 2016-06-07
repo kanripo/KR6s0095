@@ -1,23 +1,21 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 00:18:10.862479
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 5:22
 #+TITLE: 大唐開元釋教廣品歷章
 #+PROPERTY: CBETA_ID A097n1276
 #+PROPERTY: ID KR6s0095
 #+PROPERTY: SOURCE Jin Edition of the Canon Vol. 097, No. 1276
 #+PROPERTY: VOL 097
 #+PROPERTY: BASEEDITION A
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6s0095_A_003-0777b> 
 #+PROPERTY: JUAN 3
-
-大乘經律論¶
+¶
 
 新編入錄¶
-
- 大唐開元釋教廣品歷章卷第三　振¶
+大唐開元釋教廣品歷章卷第三　振¶
 (京兆華嚴寺沙門釋玄逸撰)¶
 
-大乘經重單合譯一¶
+** 大乘經重單合譯且有二百卷(二十帙)¶
 
   
   * 
